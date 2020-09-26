@@ -39,7 +39,7 @@ security
 
 //////////////////我是图片//////////////////
 
-<img src="C:\Users\libaobao\AppData\Roaming\Typora\typora-user-images\image-20200926134137605.png" alt="image-20200926134137605" style="float: left; zoom: 50%;" />
+<img src="\typora-user-images\image-20200926134137605.png" alt="image-20200926134137605" style="float: left; zoom: 50%;" />
 
 //////////////////我是图片//////////////////
 
@@ -56,7 +56,7 @@ users
 
 //////////////////我是图片//////////////////
 
-<img src="C:\Users\libaobao\AppData\Roaming\Typora\typora-user-images\image-20200926133350076.png" alt="image-20200926133350076" style="float: left; zoom: 67%;" />
+<img src="\typora-user-images\image-20200926133350076.png" alt="image-20200926133350076" style="float: left; zoom: 67%;" />
 
 //////////////////我是图片//////////////////
 
@@ -75,6 +75,6 @@ Dumb,I-kill-you,p@ssword,crappy,stupidity,genious,mob!le,admin,admin1,admin2,adm
 
 //////////////////我是图片//////////////////
 
-<img src="C:\Users\libaobao\AppData\Roaming\Typora\typora-user-images\image-20200926134318042.png" alt="image-20200926134318042" style="float: left; zoom: 50%;" />
+<img src="\typora-user-images\image-20200926134318042.png" alt="image-20200926134318042" style="float: left; zoom: 50%;" />
 
 //////////////////我是图片//////////////////
